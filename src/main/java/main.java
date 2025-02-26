@@ -41,7 +41,7 @@ public class main {
             botoesPanel.add(pedraButton);
             botoesPanel.add(papelButton);
             botoesPanel.add(tesouraButton);
-            painel.add(botoesPanel);
+            painel.add(teouraButton);
 
             // Ação do botão Pedra
             pedraButton.addActionListener(e -> {
